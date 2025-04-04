@@ -1,5 +1,5 @@
 # IPL Score Prediction 🏏📈
-This project aims to predict the final score of a team in an IPL (Indian Premier League) match based on current match statistics using machine learning models. The model is trained on data from IPL seasons 2008–2016 and tested on season 2017, with predictions extended to seasons 2018 and 2019.
+- This project aims to predict the final score of a team in an IPL (Indian Premier League) match based on current match statistics using machine learning models. The model is trained on data from IPL seasons 2008–2016 and tested on season 2017, with predictions extended to seasons 2018 and 2019.
 
 ## Project Objectives
 Predict the total score of the batting team during an IPL match innings.
